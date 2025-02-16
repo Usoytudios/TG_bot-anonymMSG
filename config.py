@@ -1,0 +1,7 @@
+TOKEN = "7486388065:AAEWvjcZaGD_b-GPdU-Mba2Hv1sf6Ud4njg"
+
+DB_PATH = "database/messages.db"
+
+
+MAX_MESSAGES_PER_MINUTE = 100  
+FLOOD_BLOCK_TIME = 60  
